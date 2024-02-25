@@ -20,4 +20,5 @@ const thai = {
     "I am doing the #100DaysOfCode challenge focused on java script",
 };
 ```
+<img src='https://github-readme-stats.vercel.app/api?username=doctor-010101&show_icons=true&theme=radical'/>
 

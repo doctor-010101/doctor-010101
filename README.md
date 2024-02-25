@@ -7,15 +7,9 @@ const thai = {
   pronouns: "He" | "him",
   langs: [Javascript, HTML, CSS],
   tools: [
-    Bootstrap
+    Bootstrap,
     Tailwind,
   ],
-  architecture: ["Microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-    coorganizer: "AfroPython",
-    speaker: "Latinity",
-    mentor: "EducaTRANSforma",
-  },
   challenge:
     "I am doing the #100DaysOfCode challenge focused on java script",
 };

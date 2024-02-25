@@ -5,7 +5,7 @@
 ```javascript
 const thai = {
   pronouns: "He" | "him",
-  langs: [Javascript, Typescript, HTML, CSS],
+  langs: [Javascript, HTML, CSS],
   tools: [
     Bootstrap
     Tailwind,

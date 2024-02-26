@@ -4,22 +4,30 @@
 
 ```javascript
 const whoAmI = {
+
     me: {
-        name: "Hassan",
+
+        name: "Hassan Seyf Ali Pour",
         age: "23",
         city: "Tabriz, Sarab",
         pronouns: "He" | "him",
-        langs: [Javascript, HTML, CSS],
+
+        langs: [Javascript,
+            HTML,
+            CSS],
+
         tools: [
             Bootstrap,
             Tailwind,
         ],
-        socialMedia : {
-            telegram : "https://t.me/hassan_code",
-            instagram : "https://instagram.com/hassan.coding",
-            email : "hassan.sarabi0101@gmail.com"
+        socialMedia: {
+            telegram: "https://t.me/hassan_code",
+            instagram: "https://instagram.com/hassan.coding",
+            email: "hassan.sarabi0101@gmail.com"
         }
+
     },
+    
 };
 ```
 <img src='https://github-readme-stats.vercel.app/api?username=doctor-010101&show_icons=true&theme=radical'/>

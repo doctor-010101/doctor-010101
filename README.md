@@ -25,8 +25,7 @@ conconst whoAmI = {
     },
 };
 ```
-<p>
-    <img src='https://github-readme-stats.vercel.app/api?username=doctor-010101&show_icons=true&theme=radical'/>  
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=doctor-010101'/>
-</p>
+
+<img src='https://github-readme-stats.vercel.app/api?username=doctor-010101&show_icons=true&theme=radical'/>  
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=doctor-010101'/>
 

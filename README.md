@@ -12,11 +12,6 @@ whoAmI = {
         langs: [Javascript,
             HTML,
             CSS],
-
-        tools: [
-            Bootstrap,
-            Tailwind,
-        ],
         socialMedia: {
             telegram: "https://t.me/hassan_code",
             instagram: "https://instagram.com/hassan.coding",

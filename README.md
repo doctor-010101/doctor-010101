@@ -1,5 +1,4 @@
 ```
-python
 who_am_i = {
     "me": {
         "name": "Hassan Seyfali Pour",

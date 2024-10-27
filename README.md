@@ -1,7 +1,11 @@
-```
+<h2> Hi, I'm Hassan Seyfali Pour! (python programmer) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```python
 who_am_i = {
     "me": {
-        "name": "Hassan Seyf Ali Pour",
+        "name": "Hassan Seyfali Pour",
         "age": "23",
         "city": "Tabriz, Sarab",
         "home": "127.0.0.1",
@@ -24,5 +28,8 @@ who_am_i = {
         "challange": "python deep learning"
     },
 }
+
 ```
 
+<img src='https://github-readme-stats.vercel.app/api?username=doctor-010101&show_icons=true&theme=dark'/>  
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=doctor-010101'/>

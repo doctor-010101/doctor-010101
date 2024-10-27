@@ -1,7 +1,7 @@
 ```
 who_am_i = {
     "me": {
-        "name": "Hassan Seyfali Pour",
+        "name": "Hassan Seyf Ali Pour",
         "age": "23",
         "city": "Tabriz, Sarab",
         "home": "127.0.0.1",

@@ -1,11 +1,11 @@
-<h2> Hi, I'm Hassan Seyfali Pour! (python programmer) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Hassan Seyf Ali Pour! (python programmer) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```python
 who_am_i = {
     "me": {
-        "name": "Hassan Seyfali Pour",
+        "name": "Hassan Seyf Ali Pour",
         "age": "23",
         "city": "Tabriz, Sarab",
         "home": "127.0.0.1",

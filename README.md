@@ -6,7 +6,7 @@
 who_am_i = {
     "me": {
         "name": "Hassan Seyf Ali Pour",
-        "age": "23",
+        "age": "24",
         "city": "Tabriz, Sarab",
         "home": "127.0.0.1",
         "pronouns": "He" | "him",
@@ -21,7 +21,7 @@ who_am_i = {
             "bootsrap"
         ],
         "socialMedia": {
-            "telegram": "https://t.me/infinity_py",
+            "telegram": "https://t.me/hassan_py",
             "instagram": "https://instagram.com/inf.py",
             "email": "hassan.sarabi0101@gmail.com"
         },
